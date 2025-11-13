@@ -6,7 +6,7 @@
 [https://blog.eugenstudio.cn/console/posts/editor?name=be277af1-c4ec-4134-8106-994baa70cb4f](https://blog.eugenstudio.cn/archives/ji-yu-python-flask-he-vue3-de-man-hua---xiao-shuo-fu-wu)
 
 # 漫画-小说在线阅读平台 - 模块划分清单
-基于 Python Flask + Vue3 技术栈
+基于 Python Flask + Vue3 + Flutter 技术栈
 
 ## 一、核心功能模块（高优先级）
 
